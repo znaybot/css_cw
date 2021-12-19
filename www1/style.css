@@ -1,0 +1,30 @@
+body {
+	background: black;
+	padding: 0;
+	margin: 0;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+
+ul {
+	padding: 0;
+}
+
+li {
+	list-style: none;
+}
+
+a {
+	display: block;
+	background: #000;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	font-size: 40px;
+	width: 20%;
+	float: left;
+}
